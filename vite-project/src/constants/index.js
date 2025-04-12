@@ -46,7 +46,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["React.js", "Tailwind CSS","Framer Motion"],
-    link:"https://myportfolio-9sob.onrender.com"
+    link:"/"
   }, 
 ];
 
