@@ -64,7 +64,7 @@ const App = () => {
         muted // Mute the video to allow autoplay in most browsers
         autoPlay // Attempt to autoplay the video
       >
-        <source src="../src/assets/video.mp4" type="video/mp4" />
+        <source src="/video.mp4" type="video/mp4" />
         {/* You can add more <source> elements for different video formats (e.g., WebM, Ogg) for better browser compatibility */}
         Your browser does not support the video tag.
       </video>
