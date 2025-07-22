@@ -36,7 +36,7 @@ export const PROJECTS = [
     image: zeroth,
     description:
       "Designed and implemented a user-friendly chatbot interface using React.js, enabling seamless interaction with the Google Gemini API to provide intelligent and context-aware responses to user queries.",
-    technologies: ["React.js", "Tailwind CSS"],
+    technologies: ["React.js", "Tailwind CSS","Google Gemini API"],
     link:"https://zerothai.onrender.com/"
   },
   
@@ -46,6 +46,14 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["React.js", "Tailwind CSS","Framer Motion"],
+    link:"/"
+  }, 
+  {
+    title: "Full Stack E-commerce Website with AI Product Description",
+    image: portfolio,
+    description:
+      "A complete MERN-based e-commerce platform with integrated AI-powered product description generation using Cohere API. Features include filtering, size selection, cart system, Razorpay payments, order tracking, and a secure admin dashboard for product, user, and order management.",
+    technologies: ["Express.js", "React.js", "Node.js", "MongoDB","Tailwind CSS","Cohere API"],
     link:"/"
   }, 
 ];
